@@ -1,2 +1,3 @@
 # Drift-Party
-A simple driving game
+Drift go brrrrrrrrrrrrrrrrrrrrrrrrrrrrr...
+## Installation
