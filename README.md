@@ -1,2 +1,2 @@
-# Town-Drive
+# Drift-Party
 A simple driving game
