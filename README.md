@@ -5,7 +5,9 @@ Drift go brrrrrrrrrrrrrrrrrrrrrrrrrrrrr...
 
 *It is easier to download this from my website https://rishaankotian.wixsite.com/home/driftparty, there you just have to click download to download the source code, here the steps are a bit confusing*
 
-- Download all of the 7zip files into a folder on your computer
+- Go to the home page of Drift Party on Github, then click download on the Source code.zip
+- The zip will start downloading on your coputer, go to the place where its downloading
+- After it finishes downloading, right click on it (if on Windows 11, right click and show more options) and click extract all and continue (then open the extracted file)
 - (Have 7zip downloaded on your device)
 - select all of the 7zip files that you downloaded, right click them (If you are on windows 11, right click and click show more options) and hover over 7zip
 - click extract and continue, (the file is over 1 gb so it might take a while to extract)
