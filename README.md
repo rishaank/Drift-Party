@@ -3,13 +3,15 @@ Drift go brrrrrrrrrrrrrrrrrrrrrrrrrrrrr...
 ## Installation
 ### Source Code
 
-*It is easier to download this from my website https://rishaankotian.wixsite.com/home/driftparty, there you just have to click download to download the source code, here the steps are a bit confusing*
+ - Go to https://rishaankotian.wixsite.com/home/driftparty
+ - Scroll down and go to Downloads
+ - Click the download button on the source code
+ - A zip file will downloaad, right click (On Windows 11, right click and click more options) and click Extract all and continue
+ - The extracted file will be the Unity editor 2021 source code
 
-- Go to the home page of Drift Party on Github, then click download on the Source code.zip
-- The zip will start downloading on your coputer, go to the place where its downloading
-- After it finishes downloading, right click on it (if on Windows 11, right click and show more options) and click extract all and continue (then open the extracted file)
-- (Have 7zip downloaded on your device)
-- select all of the 7zip files that you downloaded, right click them (If you are on windows 11, right click and click show more options) and hover over 7zip
-- click extract and continue, (the file is over 1 gb so it might take a while to extract)
-- The source code for my game should be downloaded
-- I used Unity Hub production And Unity Editor 2021.1.28f1
+### Windows
+
+ - Go to https://rishaankotian.wixsite.com/home/driftparty
+ - Scroll down and go to Downloads
+ - Click the download button on the Windows setup exe
+ - right click on the downloaded file (On Windows 11, right click and click more options) and click properties and check the 
